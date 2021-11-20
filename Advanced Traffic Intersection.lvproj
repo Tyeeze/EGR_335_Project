@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Grade Gate.ctl" Type="VI" URL="../Grade Gate.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="PedX Signal.ctl" Type="VI" URL="../PedX Signal.ctl"/>
 		<Item Name="Resting.vi" Type="VI" URL="../Resting.vi"/>
 		<Item Name="Traffic Signal.ctl" Type="VI" URL="../Traffic Signal.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
