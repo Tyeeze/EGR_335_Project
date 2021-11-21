@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Global Indicators.vi" Type="VI" URL="../Global Indicators.vi"/>
 		<Item Name="Grade Gate.ctl" Type="VI" URL="../Grade Gate.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="PedX Signal.ctl" Type="VI" URL="../PedX Signal.ctl"/>
