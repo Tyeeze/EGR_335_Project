@@ -20,6 +20,7 @@
 		<Item Name="Resting.vi" Type="VI" URL="../Resting.vi"/>
 		<Item Name="State Control.ctl" Type="VI" URL="../State Control.ctl"/>
 		<Item Name="Traffic Signal.ctl" Type="VI" URL="../Traffic Signal.ctl"/>
+		<Item Name="Train Approach.vi" Type="VI" URL="../Train Approach.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
