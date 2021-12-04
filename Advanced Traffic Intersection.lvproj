@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Cycle Enum.ctl" Type="VI" URL="../Cycle Enum.ctl"/>
 		<Item Name="Cycle Status.ctl" Type="VI" URL="../Cycle Status.ctl"/>
 		<Item Name="Cycle.vi" Type="VI" URL="../Cycle.vi"/>
 		<Item Name="Global Indicators.vi" Type="VI" URL="../Global Indicators.vi"/>
